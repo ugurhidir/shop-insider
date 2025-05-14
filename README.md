@@ -57,6 +57,3 @@ The development of this scraper involved overcoming challenges related to dynami
     python shop_insider.py
     ```
     The script will launch a Chrome browser, navigate to the specified URL, scrape product data, and save it to a CSV file (e.g., `scraped_products.csv`).
-
-## Future Enhancements (ShopInsider - Phases 2+)
-(Bu bölüm aynı kalabilir, "Scraping Multiple E-commerce Sites" maddesi zaten bu genel yaklaşımla uyumlu.)
